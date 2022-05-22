@@ -1,4 +1,3 @@
-
 public interface MyList<E> {
 	  E[] toArray();
 	  void transformAll(MyTransformer mt);
